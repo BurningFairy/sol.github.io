@@ -1,6 +1,10 @@
 @import url("./variables.css");
 
-h1 {
-    color: var(--color-text); 
+body {
     background-color: var(--color-background);
+    color: var(--color-text);
+}
+
+h1 {
+    color: var(--color-text);
 }
